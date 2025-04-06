@@ -1,0 +1,6 @@
+This is a sample text file for testing the tokenizer training script.
+It contains multiple sentences with various words and punctuation.
+The tokenizer should be able to handle different types of text, including URLs like https://example.com, email addresses like user@example.com, and numbers like 123.45.
+Special tokens such as [PAD], [UNK], [BOS], [EOS], [SEP], and [MASK] are handled automatically by the tokenizer.
+This sample demonstrates both BPE (Byte Pair Encoding) and WordPiece tokenization methods.
+Users can configure parameters like vocabulary size, minimum token frequency, and text normalization options.
