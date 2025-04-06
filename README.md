@@ -18,8 +18,8 @@ A lightweight and customizable tokenizer implementation for natural language pro
 ## Installation
 
 ```bash
-git clone https://github.com/SamuelHusek/simple-tokenizer.git
-cd simple-tokenizer
+git clone https://github.com/Yasuo414/Tokenizer.git
+cd tokenizer
 pip install -e .
 ```
 
