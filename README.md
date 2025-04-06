@@ -26,7 +26,7 @@ pip install -e .
 ## Quick Start
 
 ```python
-from simple_tokenizer import Tokenizer, Config
+from tokenizer import Tokenizer, Config
 
 # Create a tokenizer with default configuration
 tokenizer = Tokenizer()
@@ -134,7 +134,7 @@ The project consists of the following main components:
 
 ## License
 
-Copyright (c) 2025 Samuel Husek
+Copyright (c) 2025 onnx4144
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
